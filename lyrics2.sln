@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lyrics2", "lyrics2\lyrics2.csproj", "{96A0A008-94CF-45AA-9C0A-711C7E9D3210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connection", "dbConnect\Connection.csproj", "{E16F9030-49DD-46BB-853F-7AB4D31391CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A0A008-94CF-45AA-9C0A-711C7E9D3210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A0A008-94CF-45AA-9C0A-711C7E9D3210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A0A008-94CF-45AA-9C0A-711C7E9D3210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A0A008-94CF-45AA-9C0A-711C7E9D3210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16F9030-49DD-46BB-853F-7AB4D31391CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16F9030-49DD-46BB-853F-7AB4D31391CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16F9030-49DD-46BB-853F-7AB4D31391CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16F9030-49DD-46BB-853F-7AB4D31391CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA907C81-5D4C-493C-8DF0-7253FBC94AF6}
+	EndGlobalSection
+EndGlobal
